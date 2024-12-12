@@ -18,7 +18,7 @@
 
 <p align="justify"> 
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The main objective of this project is to identifying dog breeds by overlaying breed names on their images with the help of openCV. <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The main objective of this project is to identifying dog breeds by overlaying breed names on their images with the help of openCV.This approach demonstrates the practical application of computer vision in simplifying breed recognition, offering a user-friendly solution for pet owners, shelters, and veterinary clinics. <br>
  
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following are the specific objectives that this project aims to achieve: <br>

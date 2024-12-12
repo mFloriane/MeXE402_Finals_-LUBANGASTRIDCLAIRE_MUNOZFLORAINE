@@ -1,1 +1,43 @@
-# MeXE402_Finals_-LUBANGASTRIDCLAIRE_MUNOZFLORAINE
+# TABLE OF CONTENTS
+  * [I. INTRODUCTION](#i-introduction)
+  * [II. ABSTRACT](#ii-abstract)
+
+
+# I. INTRODUCTION
+
+<p align="justify"> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OpenCV (Open Source Computer Vision Library) containing more-than 2500 optimized algorithms that can be used for many different computer vision applications such as face detection and recognition, objective identification, object tracking, image registration and stitching. Cristina (2024). When it comes to identifying dog breeds and overlaying their names on images it addresses the accurately labeling and classifying different dog breeds in real time. With over 300 recognized dog breeds globally, each  breeds has a unique features, identifying dog breeds can be challenging.  But openCV addresses it because it provides tools for images enabling the developers to detect, recognize and process visual effectively. This issue is particularly relevant  in animal adoption centers,dog training schools, and veterinary clinics, wherein they can correctly identify the dog breeds. <br>
+
+<p align="justify"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The significance of this projects is to make less complex in breed identification using computer vision and machine learning techniques.In this project the system can save time, improve accuracy and reduce human error.It demonstrates the importance and efficiency of openCV in solving real world problems.<br>
+
+# II. ABSTRACT
+
+<p align="justify"> 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The main objective of this project is to identifying dog breeds by overlaying breed names on their images with the help of openCV. <br>
+ 
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following are the specific objectives that this project aims to achieve: <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. To develop a system that is capable of accurately  identifying dog breeds from images using computer vision. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. To implement functionality in overlay the identified dog breeds name directly on the dogs image.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. To create an intuitive  interface for users, enabling easy uploads and display results<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.: To optimize the system to handle minimal latency and high accuracy.<br>
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following is the approach to achieve the project objectives: <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Gather dataset of dog images  representing  a wide variety of dogs.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Model selection and training for image classification and pre trained models.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Use openCV to process inputs and detect the dogs images.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Testing and optimization to ensure the high accuracy of the system<br>
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following are the expected outputs of the project:<br>
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. A fully functional system capable of identifying dog breed images with high accuracy of 80-90%.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Overlaying of breed names on processed images.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. A user friendly tool that identify the dog breeds for variety applications, such as animal shelters, pet owners and veterinary.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. 4.A demonstration of how OpenCV and machine learning can be integrated to solve practical problems efficiently.<br>
+ 

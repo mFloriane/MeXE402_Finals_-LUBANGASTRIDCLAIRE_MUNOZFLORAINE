@@ -74,7 +74,7 @@
 
 <p align="justify">
  
-+ [1]S. Cristina, “A Gentle Introduction to OpenCV: An Open Source Library for Computer Vision and Machine Learning - MachineLearningMastery.com,” MachineLearningMastery.com, Oct. 21, 2023. https://machinelearningmastery.com/a-gentle-introduction-to-opencv-an-open-source-library-for-computer-vision-and-machine-learning/?fbclid=IwY2xjawHIA3VleHRuA2FlbQIxMAABHUu1JPVqueoN5f25_iY239JURd2JbGF0wWyt1mVQuEUdfTsE08pqk4mIIA_aem_O46AIkMELobwutrwZ2go0Q
++ [1]S. Cristina, “A Gentle Introduction to OpenCV: An Open Source Library for Computer Vision and Machine Learning - MachineLearningMastery.com,” MachineLearningMastery.com, Oct. 21, 2023. https://machinelearningmastery.com/a-gentle-introduction-to-opencv-an-open-source-library-for-computer-vision-and-machine-learning/?fbclid=IwY2xjawHIA3VleHRuA2FlbQIxMAABHUu1JPVqueoN5f25_iY239JURd2JbGF0wWyt1mVQuEUdfTsE08pqk4mIIA_aem_O46AIkMELobwutrwZ2go0Q <br>
 + [2]Khushi, “Dog Breed Image Dataset,” Kaggle.com, 2024. https://www.kaggle.com/datasets/khushikhushikhushi/dog-breed-image-dataset
 ‌
 ‌

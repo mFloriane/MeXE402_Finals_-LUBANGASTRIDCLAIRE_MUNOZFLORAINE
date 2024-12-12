@@ -1,6 +1,9 @@
 # TABLE OF CONTENTS
   * [I. INTRODUCTION](#i-introduction)
   * [II. ABSTRACT](#ii-abstract)
+  * [III. PROJECT METHODS](#iii-projectmethods)
+  * [IV. CONCLUSIONS](#iv-conclusions)
+  * [V. ADDITIONAL MATERIALS](#v-additionalmaterials)
 
 
 # I. INTRODUCTION
@@ -39,5 +42,33 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. A fully functional system capable of identifying dog breed images with high accuracy of 80-90%.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Overlaying of breed names on processed images.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. A user friendly tool that identify the dog breeds for variety applications, such as animal shelters, pet owners and veterinary.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. 4.A demonstration of how OpenCV and machine learning can be integrated to solve practical problems efficiently.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. A demonstration of how OpenCV and machine learning can be integrated to solve practical problems efficiently.<br>
+
+# III. PROJECT METHODS
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	The methodology  is how our project will be made .It should be focused on the step by step process in identifying dog breeds by overlaying dog breeds name on their images. <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Step 1: Dataset Preparation**
++ Collecting labeled dataset of dog images representing different breeds
++ To ensure consistent size, quality and format <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Step 2: Model Selection and Training**
++ Evaluate the model using validation data and refine it to improve accuracy. <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Step 3: Integration with OpenCV**
++ Use OpenCV to load and process input images.
++ Apply image preprocessing techniques such as resizing and normalization.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Step 4: Overlay Functionality:**
++ Overlay the identified breed name on the image using OpenCV’s text. <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Step 5: System Testing**
++ Test the system on unseen images from the test set to evaluate accuracy.
++ Analyze the performance accuracy. <br>
+
+# IV. CONCLUSIONS
+# V. ADDITIONAL MATERIALS
+
+
  
